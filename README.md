@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16310124.svg)](https://doi.org/10.5281/zenodo.16310124)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16310123.svg)](https://doi.org/10.5281/zenodo.16310123)
 
 # Long_range_QQD
 
