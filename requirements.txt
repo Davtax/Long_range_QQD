@@ -1,0 +1,8 @@
+numpy
+matplotlib
+qutip
+scipy
+sympy
+numba
+tqdm
+joblib
