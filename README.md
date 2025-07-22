@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16310124.svg)](https://doi.org/10.5281/zenodo.16310124)
+
 # Long_range_QQD
 
 _Authors: David Fernández-Fernández, Johannes C. Bayer, Rolf J. Haug, and Gloria Platero_
